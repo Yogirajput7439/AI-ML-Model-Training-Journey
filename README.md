@@ -20,6 +20,7 @@ job-ready data scientist.
 
 05_Feature_Engineering  
 06_ml_Projects
+08_Deep Learning 
 
 
 Each folder contains practice notebooks, examples and explanations, with comments.
